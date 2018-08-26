@@ -2,18 +2,19 @@
 
 # CSS Grid and DOM Fundamentals
 
-
 ## Part 1: Portfolio
 
-This week's is about mastering CSS grid. Mastery comes from many hours of practice and this homework is about just that! 
+Mastering CSS grid. Mastery comes from many hours of practice and this project is about just that! 
 
-Start by completing your portfolio website from last week. Use CSS grid to make responsive layout.
+Started by completing my portfolio website from last week. Used CSS grid to make responsive layout.
 
 
   ---
   
 
   ## Part 2: DOM Fundamentals
+  
+  ## Instructions
 
   Read the following article: [https://www.digitalocean.com/community/tutorials/introduction-to-the-dom](https://www.digitalocean.com/community/tutorials/introduction-to-the-dom)
 
