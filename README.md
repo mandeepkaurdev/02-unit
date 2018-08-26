@@ -6,7 +6,7 @@
 
 Mastering CSS grid. Mastery comes from many hours of practice and this project is about just that! 
 
-Started by completing my portfolio website from last week. Used CSS grid to make responsive layout.
+Started by completing my portfolio website from last week. Used CSS grid to make responsive layout
 
 
 
